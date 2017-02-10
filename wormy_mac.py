@@ -2,7 +2,7 @@
 # By Al Sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
-
+#edited by Mac Jenkins
 #KRT 14/06/2012 modified Start Screen and Game Over screen to cope with mouse events
 #KRT 14/06/2012 Added a non-busy wait to Game Over screen to reduce processor loading from near 100%
 
@@ -27,8 +27,8 @@ RED       = (205,   92,   92)#changed red color
 GREEN     = (  0, 100,   0) #changed green color
 DARKGREEN = (  0, 155,   0)
 DARKGRAY  = ( 148,  0,  211)#changed dark grey
-BLUE      = (0, 0, 255) #changed background color
-BGCOLOR = BLUE
+BLUE      = (0, 0, 255) #made new color
+BGCOLOR = BLUE #changed background color
 
 UP = 'up'
 DOWN = 'down'
